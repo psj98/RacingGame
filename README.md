@@ -1,2 +1,1 @@
-# RacingGame
-RacingGame
+# Racing-Game
